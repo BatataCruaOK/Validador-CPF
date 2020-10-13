@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstring>
 #include <string>
-#include <math.h>
 using namespace std;
 
 bool validarNumeroCPF(string cpf, string &msgErro){
